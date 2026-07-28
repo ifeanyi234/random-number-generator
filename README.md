@@ -5,7 +5,7 @@ minimum and maximum value, with input validation.
 
 ## Live Demo
 
-[Link here once deployed]
+[https://ifeanyi234.github.io/random-number-generator/]
 
 ## Screenshots
 
